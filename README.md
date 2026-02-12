@@ -103,6 +103,20 @@ https://cdn.example.com/hero-banner.webp
 1, 5, 12, 25
 ```
 
+## 📸 Screenshots
+
+### Settings Page
+
+![Image Preloading settings page](./screenshot-1.jpg)
+
+### HTML Preloading Code
+
+![Generated preload tags in page source](./screenshot-2.jpg)
+
+### Preloading Waterfall
+
+![Network waterfall showing image preloading](./screenshot-3.jpg)
+
 ## 🐛 Troubleshooting
 
 ### Images Not Preloading
