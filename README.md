@@ -1,6 +1,7 @@
 # Image Preloading (WordPress Plugin)
 
-Modern image preloading/prefetching plugin for WordPress to improve page loading performance.
+Modern [image preloading/prefetching plugin for WordPress](https://wordpress.org/plugins/image-preloading/) to improve page loading performance.  
+
 
 ## ✨ Features
 
